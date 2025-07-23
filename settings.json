@@ -3,14 +3,14 @@
     "botname": "dreaded",
     "prefix": ".",
     "packname": "dreaded v2 🤖",
-    "mode": "public",
+    "mode": "private",
     "presence": "online",
     "autoview": true,
-    "autolike": true,
-    "autoread": true,
+    "autolike": false,
+    "autoread": false,
     "autobio": false,
-    "anticall": true,
-    "reactEmoji": "❤️"
+    "anticall": false,
+    "reactEmoji": ""
   },
   "groupDefaults": {
     "antitag": true,
